@@ -2,7 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e86a9b4a-437e-42ed-bed5-f50b913e70b8" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/odoo_modules/local-addons/custom/students/models/books_oz.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/odoo_modules/local-addons/custom/students/models/service_odoo_salesforce_integrations.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/odoo_modules/local-addons/custom/students/views/integration_module.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/odoo_modules" beforeDir="false" afterPath="$PROJECT_DIR$/odoo_modules" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/odoo_modules/local-addons/custom/students/__manifest__.py" beforeDir="false" afterPath="$PROJECT_DIR$/odoo_modules/local-addons/custom/students/__manifest__.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/odoo_modules/local-addons/custom/students/models/models.py" beforeDir="false" afterPath="$PROJECT_DIR$/odoo_modules/local-addons/custom/students/models/models.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/odoo_modules/local-addons/custom/students/views/students.xml" beforeDir="false" afterPath="$PROJECT_DIR$/odoo_modules/local-addons/custom/students/views/students.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/odoo_modules/odoo.conf" beforeDir="false" afterPath="$PROJECT_DIR$/odoo_modules/odoo.conf" afterDir="false" />
@@ -16,27 +23,17 @@
   <component name="FileEditorManager">
     <leaf>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/odoo_modules/odoo.conf">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
-              <caret line="12" column="17" selection-start-line="12" selection-start-column="17" selection-end-line="12" selection-end-column="17" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/odoo_modules/docker-compose.yml">
-          <provider selected="true" editor-type-id="text-editor" />
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-8" />
+          </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/odoo_modules/local-addons/custom/students/models/models.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="649">
-              <caret line="63" column="21" lean-forward="true" selection-start-line="63" selection-start-column="21" selection-end-line="63" selection-end-column="21" />
-              <folding>
-                <element signature="e#0#36#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="30">
+              <caret line="2" column="14" selection-start-line="2" selection-start-column="14" selection-end-line="2" selection-end-column="14" />
             </state>
           </provider>
         </entry>
@@ -44,8 +41,41 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/odoo_modules/local-addons/custom/students/views/students.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="330">
-              <caret line="55" column="96" selection-start-line="55" selection-start-column="96" selection-end-line="55" selection-end-column="96" />
+            <state relative-caret-position="975">
+              <caret line="86" column="59" lean-forward="true" selection-start-line="86" selection-start-column="59" selection-end-line="86" selection-end-column="59" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/odoo_modules/local-addons/custom/students/__manifest__.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="469">
+              <caret line="45" column="44" lean-forward="true" selection-start-line="45" selection-start-column="44" selection-end-line="45" selection-end-column="44" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/odoo_modules/local-addons/custom/students/views/integration_module.xml">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/odoo_modules/local-addons/custom/students/models/__init__.py">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/odoo_modules/local-addons/custom/students/__init__.py">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/odoo_modules/local-addons/custom/students/models/service_odoo_salesforce_integrations.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="555">
+              <caret line="37" column="32" selection-start-line="37" selection-start-column="27" selection-end-line="37" selection-end-column="32" />
             </state>
           </provider>
         </entry>
@@ -54,7 +84,7 @@
         <entry file="file://$PROJECT_DIR$/odoo_modules/local-addons/custom/students/models/books_oz.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="45">
-              <caret line="3" lean-forward="true" selection-start-line="3" selection-start-column="2" selection-end-line="3" selection-end-column="41" />
+              <caret line="3" selection-start-line="3" selection-start-column="2" selection-end-line="3" selection-end-column="41" />
               <folding>
                 <element signature="e#0#15#0" expanded="true" />
               </folding>
@@ -81,6 +111,9 @@
         <option value="$PROJECT_DIR$/odoo_modules/local-addons/custom/students/models/books_oz.py" />
         <option value="$PROJECT_DIR$/odoo_modules/odoo.conf" />
         <option value="$PROJECT_DIR$/odoo_modules/local-addons/custom/students/views/students.xml" />
+        <option value="$PROJECT_DIR$/odoo_modules/local-addons/custom/students/__manifest__.py" />
+        <option value="$PROJECT_DIR$/odoo_modules/local-addons/custom/students/models/integration_module.py" />
+        <option value="$PROJECT_DIR$/odoo_modules/local-addons/custom/students/models/service_odoo_salesforce_integrations.py" />
         <option value="$PROJECT_DIR$/odoo_modules/local-addons/custom/students/models/models.py" />
       </list>
     </option>
@@ -157,6 +190,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -170,7 +204,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Python.integration_module">
     <configuration name="Parse_Crypto" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="test_odoo" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -192,8 +226,30 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="integration_module" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="test_odoo" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/odoo_modules/local-addons/custom/students/models" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/odoo_modules/local-addons/custom/students/models/service_odoo_salesforce_integrations.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.integration_module" />
         <item itemvalue="Python.Parse_Crypto" />
       </list>
     </recent_temporary>
@@ -215,12 +271,12 @@
     <frame x="67" y="25" width="1853" height="1055" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.17759563" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.15628415" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.6900648" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.11555076" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -240,7 +296,9 @@
     <entry file="file://$PROJECT_DIR$/docker_odoo/local-addons/Students/__manifest__.py" />
     <entry file="file://$PROJECT_DIR$/docker_odoo/local-addons/Students/__init__.py" />
     <entry file="file://$PROJECT_DIR$/odoo_modules/docker-compose.yml">
-      <provider selected="true" editor-type-id="text-editor" />
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-8" />
+      </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/odoo_modules/odoo.conf">
       <provider selected="true" editor-type-id="text-editor">
@@ -249,32 +307,67 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/odoo_modules/local-addons/custom/students/models/__init__.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/odoo_modules/local-addons/custom/students/__init__.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/odoo_modules/local-addons/custom/students/__manifest__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="469">
+          <caret line="45" column="44" lean-forward="true" selection-start-line="45" selection-start-column="44" selection-end-line="45" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/odoo_modules/local-addons/custom/students/views/students.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="975">
+          <caret line="86" column="59" lean-forward="true" selection-start-line="86" selection-start-column="59" selection-end-line="86" selection-end-column="59" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/odoo_modules/local-addons/custom/students/models/books_oz.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="45">
-          <caret line="3" lean-forward="true" selection-start-line="3" selection-start-column="2" selection-end-line="3" selection-end-column="41" />
+          <caret line="3" selection-start-line="3" selection-start-column="2" selection-end-line="3" selection-end-column="41" />
           <folding>
             <element signature="e#0#15#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/odoo_modules/local-addons/custom/students/views/students.xml">
+    <entry file="file://$PROJECT_DIR$/odoo_modules/local-addons/custom/students/views/integration_module.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/odoo_modules/local-addons/custom/students/models/service_odoo_salesforce_integrations.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="330">
-          <caret line="55" column="96" selection-start-line="55" selection-start-column="96" selection-end-line="55" selection-end-column="96" />
+        <state relative-caret-position="555">
+          <caret line="37" column="32" selection-start-line="37" selection-start-column="27" selection-end-line="37" selection-end-column="32" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/odoo_modules/local-addons/custom/students/models/models.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="649">
-          <caret line="63" column="21" lean-forward="true" selection-start-line="63" selection-start-column="21" selection-end-line="63" selection-end-column="21" />
-          <folding>
-            <element signature="e#0#36#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="30">
+          <caret line="2" column="14" selection-start-line="2" selection-start-column="14" selection-end-line="2" selection-end-column="14" />
         </state>
       </provider>
     </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
   </component>
 </project>
